@@ -1,5 +1,3 @@
-slidenumbers: true
-
 # Invariant
 
 ---
